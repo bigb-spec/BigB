@@ -1,5 +1,3 @@
-Backend Developer in training | Architect | UrbanTech &amp; Fintech Enthusiast
-
 <!-- Banner or Name -->
 <h1 align="center">Hey there! I'm Brandon Kiprotich 👋</h1>
 <h3 align="center">Backend Developer in training | Architect | UrbanTech & Fintech Enthusiast</h3>
